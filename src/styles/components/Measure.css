@@ -1,0 +1,19 @@
+.input-measure {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+#measure {
+  height: 32px;
+  width: 66px;
+  text-align: center;
+  font-size: larger;
+  font-weight: 500;
+}

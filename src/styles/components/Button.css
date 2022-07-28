@@ -1,0 +1,15 @@
+.main-btn {
+  align-self: center;
+  background-color: #b8efe5;
+  border: 1px solid #bbffef;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 14px;
+  cursor: pointer;
+  height: 40px;
+  width: 114px;
+  transition: background-color 0.25s ease;
+}
+
+.main-btn:hover {
+  background-color: #aae0d5;
+}

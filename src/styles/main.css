@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(0, 0, 0, 0.35) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.35);
+}
+
+body {
+  color: #3f3f3f;
+  font-family: "Manrope", sans-serif;
+}
+
+button {
+  color: #3f3f3f;
+  font-family: "Manrope", sans-serif;
+}
+
+input {
+  color: #3f3f3f;
+  font-family: "Manrope", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+ul {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  list-style: none;
+}
